@@ -1,7 +1,7 @@
 # DL_RicePlantDiseaseClassification
 This repo contains the codes used to train the various models, and also the final trained models for phases 1 and 2. In short, this contains everything that I dealt with, but it does not contain the training code and models from my colleagues' part of the work yet. We plan to unify everything in the coming future.
 
-The dataset(s) are to be uploaded to Kaggle under the name `<placeholder>`. It includes all the different versions of the dataset that has been used in the project. 
+The dataset(s) are to be uploaded to Kaggle under the name `CP_DATASETS`, private to my account due to licensing constraints. It includes all the different versions of the dataset that has been used in the project. 
 
 `old` contains an older variation of the working datasets at the early stage of the project included for legacy purposes, while `new` contains the latest dataset versions. The various sub folders are:
 - `CP_DATASET_OGplusGA` is the original dataset, which has been geometrically augmented. (Imbalanced Classes)
